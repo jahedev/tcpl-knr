@@ -3,5 +3,5 @@
 ### Compiling
 
 ```powershell
-clang -std=89 exercisefile.c -o exercisefile.exe
+clang -std=c89 exercisefile.c -o exercisefile.exe
 ```
