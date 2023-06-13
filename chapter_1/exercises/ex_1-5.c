@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /* print Farenheit-Celsius table */
-main()
+int main()
 {
   int fahr;
 
